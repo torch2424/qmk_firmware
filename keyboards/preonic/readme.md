@@ -1,6 +1,10 @@
 Preonic
 ===
 
+# Torch's Notes
+
+Simply run `make preonic:default` as I put my kemap in there :)
+
 ![Preonic](http://i.imgur.com/EDWQbB0.jpg)
 
 A compact 50% (12x5) ortholinear keyboard kit made and sold by OLKB and Massdrop. [More info on qmk.fm](http://qmk.fm/preonic/)
