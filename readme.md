@@ -1,3 +1,32 @@
+This is for torch2424's preonic
+
+To run a build do the following:
+
+* Follow the [QMK build setup](https://docs.qmk.fm/build_environment_setup.html)
+
+* Make vhanges to [Preonic keymap file](/keyboards/preonic/keymaps/default/keymap.c)
+
+* `make preonic:default`, output will be in the base project directory
+
+* Download and open the [QMK Toolbox](https://github.com/qmk/qmk_toolbox/releases).
+
+* Put the Preonic into Flash or DMU mode by pressing `LOWER + RAISE + Q`
+
+* Use the QMK Toolbox to flash
+
+* Enjoy!
+
+### Other notes:
+
+
+* [Preonic keyboard directory](/keyboards/preonic/)
+
+* [Preonic keymap file](/keyboards/preonic/keymaps/default/keymap.c)
+
+---
+
+# Original README
+
 # Quantum Mechanical Keyboard Firmware
 
 [![Current Version](https://img.shields.io/github/tag/qmk/qmk_firmware.svg)](https://github.com/qmk/qmk_firmware/tags)
